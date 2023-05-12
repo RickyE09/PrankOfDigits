@@ -139,8 +139,6 @@ std::string keyCrack(/*std::string& s ,*/ encryptedEqu& eq) {
 // --- --- ---
 ///
 
-
-
 int main() {
   std::string equStr;
   std::getline(std::cin, equStr);
@@ -222,7 +220,6 @@ int main() {
 // 0123456789
 // 12+4=10
 // 84+5=89
-
 
 //
 // 2456137809
